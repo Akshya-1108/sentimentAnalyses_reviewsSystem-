@@ -1,0 +1,501 @@
+review_id,product_id,reviewer_name,review_title,review_text,rating,review_date,verified_purchase,helpful_votes
+R1,P123456,Willie,Good but not great,"The noise cancellation is easy, and the sound is laggy.",5,2024-11-27,No,12
+R2,P123456,Tiffany,Good but not great,"I found the build quality to be robust, although it's a bit frustrating.",2,2024-09-15,Yes,10
+R3,P123456,Stephanie,Highly recommend,"Battery life is poor, but the comfort level is smooth.",1,2024-12-30,No,39
+R4,P123456,Jay,Not worth the price,The headphones are smooth for long use. Sound quality is easy.,5,2024-08-17,Yes,4
+R5,P123456,Anthony,Not worth the price,Comfort is easy. I wear them during work and they are frustrating.,4,2024-06-27,Yes,22
+R6,P123456,Christy,Good but not great,"The noise cancellation is laggy, and the sound is intuitive.",4,2024-10-16,Yes,48
+R7,P123456,Kendra,Worst purchase ever,I love the easy design. They also feel excellent on the head.,3,2025-02-04,Yes,16
+R8,P123456,Tyler,Amazing product,The headphones are poor for long use. Sound quality is easy.,5,2024-12-06,No,13
+R9,P123456,Christopher,Just okay,"After a month, the headphones became intuitive, and support was mediocre.",1,2025-01-18,Yes,36
+R10,P123456,Monique,Amazing product,"The noise cancellation is comfortable, and the sound is complicated.",3,2024-09-01,No,20
+R11,P123456,Brandi,Not worth the price,Comfort is poor. I wear them during work and they are mediocre.,3,2024-12-09,Yes,16
+R12,P123456,Sherri,Amazing product,Comfort is robust. I wear them during work and they are flimsy.,3,2024-09-24,No,39
+R13,P123456,Amy,Exceeded expectations,"Battery life is poor, but the comfort level is laggy.",4,2024-11-11,No,28
+R14,P123456,Monica,Worst purchase ever,"I found the build quality to be frustrating, although it's a bit flimsy.",5,2025-01-27,No,49
+R15,P123456,Glen,Disappointed,"After a month, the headphones became complicated, and support was excellent.",5,2024-12-25,No,44
+R16,P123456,Michelle,Disappointed,"The app integration is smooth, although a bit poor to navigate.",1,2025-02-03,Yes,0
+R17,P123456,Laura,Good but not great,"The app integration is easy, although a bit comfortable to navigate.",1,2024-08-03,No,17
+R18,P123456,Erin,Good but not great,"After a month, the headphones became comfortable, and support was complicated.",1,2025-04-14,Yes,19
+R19,P123456,Paul,Good but not great,"After a month, the headphones became poor, and support was excellent.",3,2024-11-13,No,16
+R20,P123456,Edward,Highly recommend,"The app integration is easy, although a bit flimsy to navigate.",2,2024-05-27,Yes,38
+R21,P123456,Beverly,Terrible battery,"The app integration is excellent, although a bit complicated to navigate.",1,2025-01-20,Yes,14
+R22,P123456,Rodney,Crystal clear audio,"I found the build quality to be excellent, although it's a bit excellent.",5,2025-01-13,No,40
+R23,P123456,Andrea,Highly recommend,I love the laggy design. They also feel frustrating on the head.,3,2024-11-25,Yes,45
+R24,P123456,Michael,Amazing product,"Battery life is smooth, but the comfort level is intuitive.",4,2024-12-07,No,43
+R25,P123456,Tanya,Not worth the price,"The Bluetooth connection is excellent, but range is complicated.",3,2024-11-24,Yes,14
+R26,P123456,Danielle,Just okay,Comfort is comfortable. I wear them during work and they are complicated.,3,2025-02-02,Yes,2
+R27,P123456,Richard,Good but not great,"The noise cancellation is frustrating, and the sound is mediocre.",1,2025-04-30,Yes,29
+R28,P123456,Theresa,Crystal clear audio,"After a month, the headphones became complicated, and support was excellent.",4,2024-10-09,Yes,17
+R29,P123456,Jennifer,Disappointed,"Battery life is poor, but the comfort level is mediocre.",4,2024-09-19,Yes,29
+R30,P123456,Curtis,Terrible battery,"The noise cancellation is smooth, and the sound is comfortable.",4,2025-01-18,No,6
+R31,P123456,Briana,Amazing product,"After a month, the headphones became frustrating, and support was poor.",3,2024-07-09,Yes,50
+R32,P123456,Maxwell,Worst purchase ever,"The app integration is frustrating, although a bit frustrating to navigate.",1,2024-06-17,Yes,50
+R33,P123456,Evan,Good but not great,"The app integration is intuitive, although a bit intuitive to navigate.",3,2024-12-15,Yes,24
+R34,P123456,Danielle,Just okay,"The app integration is comfortable, although a bit flimsy to navigate.",5,2024-05-23,No,22
+R35,P123456,Curtis,Crystal clear audio,"The Bluetooth connection is laggy, but range is smooth.",1,2024-07-29,No,10
+R36,P123456,Kimberly,Crystal clear audio,"I found the build quality to be complicated, although it's a bit comfortable.",3,2025-04-22,Yes,30
+R37,P123456,Leroy,Exceeded expectations,The headphones are poor for long use. Sound quality is easy.,3,2024-12-22,Yes,12
+R38,P123456,Kim,Not worth the price,"These are excellent for travel, noise isolation is easy.",4,2024-12-11,No,28
+R39,P123456,Stephen,Exceeded expectations,The headphones are flimsy for long use. Sound quality is laggy.,4,2024-07-17,No,37
+R40,P123456,Sherry,Just okay,The headphones are poor for long use. Sound quality is mediocre.,1,2024-11-15,Yes,24
+R41,P123456,Amanda,Highly recommend,The headphones are comfortable for long use. Sound quality is intuitive.,4,2024-07-21,No,35
+R42,P123456,Stephanie,Good but not great,"The app integration is complicated, although a bit easy to navigate.",2,2024-08-05,Yes,26
+R43,P123456,Lauren,Highly recommend,"The Bluetooth connection is mediocre, but range is intuitive.",3,2025-02-05,No,45
+R44,P123456,Jaime,Crystal clear audio,"The Bluetooth connection is laggy, but range is flimsy.",2,2025-02-07,Yes,41
+R45,P123456,Brian,Just okay,"The app integration is laggy, although a bit laggy to navigate.",2,2024-08-07,No,44
+R46,P123456,Rebecca,Good but not great,"Battery life is poor, but the comfort level is excellent.",3,2024-08-15,No,23
+R47,P123456,Sara,Just okay,Comfort is poor. I wear them during work and they are excellent.,2,2024-11-01,No,43
+R48,P123456,Edwin,Just okay,"The app integration is laggy, although a bit intuitive to navigate.",4,2025-02-13,Yes,36
+R49,P123456,Andrew,Amazing product,"Battery life is easy, but the comfort level is comfortable.",3,2024-08-13,Yes,11
+R50,P123456,Jacob,Exceeded expectations,"The app integration is poor, although a bit flimsy to navigate.",5,2024-12-08,No,11
+R51,P123456,Steven,Disappointed,The headphones are mediocre for long use. Sound quality is flimsy.,1,2024-11-09,No,23
+R52,P123456,Cathy,Terrible battery,"I found the build quality to be robust, although it's a bit easy.",3,2024-10-06,No,21
+R53,P123456,Frederick,Terrible battery,"The app integration is laggy, although a bit easy to navigate.",3,2024-11-05,Yes,11
+R54,P123456,John,Highly recommend,Comfort is mediocre. I wear them during work and they are robust.,4,2024-10-21,Yes,25
+R55,P123456,Patricia,Terrible battery,"After a month, the headphones became comfortable, and support was poor.",5,2025-04-24,No,36
+R56,P123456,Cory,Good but not great,"I found the build quality to be comfortable, although it's a bit mediocre.",5,2025-05-19,Yes,6
+R57,P123456,Ashley,Not worth the price,The headphones are mediocre for long use. Sound quality is smooth.,1,2024-10-07,Yes,11
+R58,P123456,Jason,Not worth the price,"The Bluetooth connection is comfortable, but range is intuitive.",3,2025-02-15,No,5
+R59,P123456,Jeffery,Not worth the price,"The app integration is intuitive, although a bit frustrating to navigate.",5,2024-09-28,No,23
+R60,P123456,Valerie,Disappointed,"The Bluetooth connection is intuitive, but range is poor.",5,2025-05-16,Yes,38
+R61,P123456,Susan,Disappointed,The headphones are complicated for long use. Sound quality is mediocre.,1,2025-05-07,No,36
+R62,P123456,Kimberly,Exceeded expectations,"Battery life is poor, but the comfort level is flimsy.",3,2024-09-22,Yes,25
+R63,P123456,Paige,Worst purchase ever,The headphones are robust for long use. Sound quality is comfortable.,3,2024-07-16,Yes,5
+R64,P123456,Kristopher,Just okay,"The noise cancellation is flimsy, and the sound is easy.",1,2025-04-18,No,36
+R65,P123456,William,Amazing product,"Battery life is comfortable, but the comfort level is mediocre.",5,2024-10-15,Yes,4
+R66,P123456,April,Crystal clear audio,I love the excellent design. They also feel mediocre on the head.,2,2025-03-07,Yes,5
+R67,P123456,Emily,Just okay,Comfort is mediocre. I wear them during work and they are excellent.,5,2024-08-03,Yes,17
+R68,P123456,Tonya,Just okay,"The app integration is comfortable, although a bit excellent to navigate.",3,2024-11-11,Yes,0
+R69,P123456,Angela,Disappointed,"I found the build quality to be frustrating, although it's a bit smooth.",2,2025-01-21,Yes,30
+R70,P123456,Garrett,Worst purchase ever,"The noise cancellation is excellent, and the sound is flimsy.",3,2024-11-21,Yes,4
+R71,P123456,Colin,Not worth the price,"The noise cancellation is intuitive, and the sound is intuitive.",1,2024-08-17,Yes,45
+R72,P123456,Sherry,Exceeded expectations,"These are robust for travel, noise isolation is easy.",2,2025-02-22,Yes,5
+R73,P123456,Amy,Good but not great,"I found the build quality to be flimsy, although it's a bit poor.",4,2025-02-25,Yes,47
+R74,P123456,Richard,Crystal clear audio,"I found the build quality to be poor, although it's a bit mediocre.",3,2025-01-01,No,16
+R75,P123456,Nicole,Exceeded expectations,I love the poor design. They also feel comfortable on the head.,5,2025-04-12,Yes,8
+R76,P123456,John,Disappointed,"Battery life is excellent, but the comfort level is comfortable.",1,2024-08-16,Yes,17
+R77,P123456,Monica,Good but not great,"Battery life is easy, but the comfort level is laggy.",5,2024-07-14,No,35
+R78,P123456,Alyssa,Disappointed,The headphones are comfortable for long use. Sound quality is laggy.,5,2025-05-08,No,23
+R79,P123456,Laurie,Just okay,Comfort is intuitive. I wear them during work and they are mediocre.,5,2024-10-02,Yes,43
+R80,P123456,Alexander,Crystal clear audio,"I found the build quality to be flimsy, although it's a bit smooth.",1,2024-09-07,Yes,33
+R81,P123456,Diane,Exceeded expectations,"I found the build quality to be robust, although it's a bit easy.",1,2024-05-28,Yes,25
+R82,P123456,Robert,Crystal clear audio,The headphones are laggy for long use. Sound quality is complicated.,2,2024-09-26,No,1
+R83,P123456,Robert,Disappointed,"I found the build quality to be laggy, although it's a bit intuitive.",1,2025-02-17,Yes,47
+R84,P123456,Ronald,Exceeded expectations,"The app integration is flimsy, although a bit flimsy to navigate.",2,2025-04-30,No,25
+R85,P123456,Andrew,Highly recommend,Comfort is easy. I wear them during work and they are easy.,3,2024-10-13,No,44
+R86,P123456,Patricia,Not worth the price,"The noise cancellation is frustrating, and the sound is complicated.",1,2024-05-31,No,17
+R87,P123456,Eric,Just okay,Comfort is mediocre. I wear them during work and they are smooth.,1,2024-06-13,No,44
+R88,P123456,Alyssa,Amazing product,"The noise cancellation is poor, and the sound is flimsy.",1,2025-01-11,No,7
+R89,P123456,Samantha,Not worth the price,I love the laggy design. They also feel complicated on the head.,5,2024-06-11,No,34
+R90,P123456,Taylor,Worst purchase ever,The headphones are robust for long use. Sound quality is mediocre.,2,2024-06-26,No,6
+R91,P123456,Anthony,Not worth the price,"Battery life is intuitive, but the comfort level is smooth.",4,2025-01-18,No,11
+R92,P123456,Patrick,Good but not great,"After a month, the headphones became flimsy, and support was smooth.",2,2025-04-12,No,49
+R93,P123456,Thomas,Disappointed,The headphones are frustrating for long use. Sound quality is complicated.,4,2024-12-26,Yes,10
+R94,P123456,Diane,Good but not great,Comfort is comfortable. I wear them during work and they are poor.,3,2025-04-07,Yes,28
+R95,P123456,Joseph,Worst purchase ever,"The app integration is frustrating, although a bit robust to navigate.",1,2025-01-04,No,20
+R96,P123456,Aaron,Terrible battery,"The Bluetooth connection is mediocre, but range is laggy.",1,2024-06-06,Yes,25
+R97,P123456,Carlos,Worst purchase ever,The headphones are smooth for long use. Sound quality is complicated.,5,2024-10-14,Yes,26
+R98,P123456,Amber,Disappointed,Comfort is complicated. I wear them during work and they are comfortable.,1,2024-11-10,No,7
+R99,P123456,Robert,Just okay,The headphones are smooth for long use. Sound quality is laggy.,4,2025-01-10,Yes,49
+R100,P123456,Brian,Amazing product,"The Bluetooth connection is comfortable, but range is comfortable.",1,2024-07-12,No,17
+R101,P123456,Robin,Terrible battery,"Battery life is comfortable, but the comfort level is robust.",2,2025-02-19,Yes,22
+R102,P123456,Matthew,Good but not great,"After a month, the headphones became flimsy, and support was laggy.",2,2024-05-27,Yes,42
+R103,P123456,Susan,Highly recommend,"These are easy for travel, noise isolation is complicated.",1,2024-12-26,No,19
+R104,P123456,Connor,Highly recommend,I love the excellent design. They also feel laggy on the head.,1,2024-11-20,Yes,3
+R105,P123456,Chad,Not worth the price,The headphones are mediocre for long use. Sound quality is poor.,3,2025-04-07,No,23
+R106,P123456,Matthew,Not worth the price,I love the excellent design. They also feel frustrating on the head.,5,2024-07-03,No,11
+R107,P123456,Tyler,Highly recommend,"I found the build quality to be flimsy, although it's a bit laggy.",5,2024-11-29,No,3
+R108,P123456,Gina,Disappointed,"The app integration is smooth, although a bit excellent to navigate.",5,2024-09-22,No,28
+R109,P123456,Robert,Highly recommend,Comfort is comfortable. I wear them during work and they are mediocre.,5,2025-01-19,Yes,20
+R110,P123456,Theresa,Crystal clear audio,"I found the build quality to be complicated, although it's a bit comfortable.",1,2024-12-18,Yes,21
+R111,P123456,Anna,Highly recommend,I love the robust design. They also feel complicated on the head.,1,2025-04-23,Yes,14
+R112,P123456,Jessica,Not worth the price,"I found the build quality to be easy, although it's a bit poor.",3,2025-02-28,No,35
+R113,P123456,Karina,Highly recommend,"After a month, the headphones became intuitive, and support was smooth.",3,2024-06-12,No,38
+R114,P123456,Mary,Amazing product,The headphones are laggy for long use. Sound quality is flimsy.,2,2024-10-18,No,4
+R115,P123456,Casey,Highly recommend,"The noise cancellation is frustrating, and the sound is flimsy.",5,2024-12-06,No,27
+R116,P123456,Laura,Crystal clear audio,"The Bluetooth connection is poor, but range is robust.",1,2025-01-23,Yes,46
+R117,P123456,Rebecca,Amazing product,Comfort is intuitive. I wear them during work and they are robust.,5,2025-03-17,Yes,1
+R118,P123456,Christine,Just okay,"The Bluetooth connection is complicated, but range is poor.",5,2024-12-19,Yes,20
+R119,P123456,Joseph,Crystal clear audio,"After a month, the headphones became smooth, and support was mediocre.",2,2025-05-03,No,33
+R120,P123456,Vanessa,Disappointed,"Battery life is smooth, but the comfort level is laggy.",3,2024-12-25,No,16
+R121,P123456,Michael,Good but not great,Comfort is complicated. I wear them during work and they are intuitive.,1,2024-07-29,Yes,40
+R122,P123456,Janet,Terrible battery,I love the intuitive design. They also feel complicated on the head.,2,2025-03-17,No,25
+R123,P123456,Paul,Terrible battery,Comfort is frustrating. I wear them during work and they are comfortable.,3,2025-04-21,Yes,9
+R124,P123456,John,Worst purchase ever,"The app integration is flimsy, although a bit complicated to navigate.",2,2024-08-25,Yes,49
+R125,P123456,Andrew,Highly recommend,"I found the build quality to be comfortable, although it's a bit flimsy.",3,2025-03-19,No,16
+R126,P123456,Angela,Exceeded expectations,Comfort is smooth. I wear them during work and they are poor.,5,2025-01-24,Yes,24
+R127,P123456,John,Exceeded expectations,Comfort is laggy. I wear them during work and they are poor.,4,2025-05-19,Yes,12
+R128,P123456,Heather,Disappointed,"The Bluetooth connection is laggy, but range is smooth.",4,2024-10-13,Yes,45
+R129,P123456,Kim,Worst purchase ever,I love the mediocre design. They also feel poor on the head.,5,2024-07-19,Yes,17
+R130,P123456,Nicholas,Exceeded expectations,"The noise cancellation is intuitive, and the sound is robust.",2,2024-08-13,Yes,23
+R131,P123456,Julia,Not worth the price,"The app integration is smooth, although a bit excellent to navigate.",5,2025-04-13,Yes,26
+R132,P123456,Susan,Exceeded expectations,Comfort is smooth. I wear them during work and they are comfortable.,5,2024-07-15,Yes,27
+R133,P123456,Julia,Disappointed,"Battery life is comfortable, but the comfort level is smooth.",2,2024-07-14,No,4
+R134,P123456,Abigail,Amazing product,"The app integration is excellent, although a bit mediocre to navigate.",5,2025-04-21,Yes,40
+R135,P123456,Jean,Highly recommend,"Battery life is intuitive, but the comfort level is mediocre.",5,2024-08-23,No,24
+R136,P123456,Steven,Good but not great,"The app integration is complicated, although a bit smooth to navigate.",1,2024-07-08,Yes,45
+R137,P123456,Jessica,Disappointed,"After a month, the headphones became laggy, and support was frustrating.",4,2024-11-24,Yes,3
+R138,P123456,James,Amazing product,The headphones are robust for long use. Sound quality is smooth.,5,2024-11-18,Yes,4
+R139,P123456,David,Highly recommend,"Battery life is mediocre, but the comfort level is mediocre.",4,2024-11-24,Yes,41
+R140,P123456,Jeffrey,Disappointed,"I found the build quality to be mediocre, although it's a bit mediocre.",5,2025-05-14,No,49
+R141,P123456,Jacob,Good but not great,"Battery life is easy, but the comfort level is easy.",2,2025-04-02,No,2
+R142,P123456,Nathan,Worst purchase ever,"After a month, the headphones became comfortable, and support was easy.",4,2025-05-03,No,13
+R143,P123456,Christopher,Disappointed,"Battery life is smooth, but the comfort level is smooth.",1,2024-10-20,No,32
+R144,P123456,Dennis,Amazing product,I love the comfortable design. They also feel excellent on the head.,2,2024-08-28,Yes,14
+R145,P123456,Pamela,Disappointed,The headphones are comfortable for long use. Sound quality is frustrating.,1,2024-08-23,Yes,36
+R146,P123456,Ashley,Good but not great,"Battery life is mediocre, but the comfort level is mediocre.",5,2024-08-18,Yes,5
+R147,P123456,Meghan,Amazing product,"Battery life is complicated, but the comfort level is easy.",3,2024-08-22,No,29
+R148,P123456,Michelle,Crystal clear audio,"The noise cancellation is excellent, and the sound is poor.",1,2024-10-04,No,1
+R149,P123456,Richard,Highly recommend,"The noise cancellation is complicated, and the sound is comfortable.",2,2025-02-27,No,5
+R150,P123456,David,Crystal clear audio,"The noise cancellation is complicated, and the sound is easy.",3,2024-09-19,Yes,18
+R151,P123456,David,Disappointed,"The noise cancellation is poor, and the sound is intuitive.",5,2024-12-17,No,46
+R152,P123456,Kristine,Highly recommend,"The app integration is poor, although a bit laggy to navigate.",4,2025-04-26,Yes,11
+R153,P123456,Jennifer,Terrible battery,"I found the build quality to be intuitive, although it's a bit complicated.",5,2024-07-18,Yes,28
+R154,P123456,Christopher,Just okay,"The noise cancellation is poor, and the sound is comfortable.",2,2025-03-16,No,2
+R155,P123456,Travis,Highly recommend,Comfort is flimsy. I wear them during work and they are robust.,3,2024-11-04,No,27
+R156,P123456,Emily,Disappointed,"The app integration is easy, although a bit robust to navigate.",5,2024-08-31,Yes,47
+R157,P123456,Brittany,Disappointed,Comfort is excellent. I wear them during work and they are easy.,5,2025-02-01,Yes,47
+R158,P123456,Randall,Just okay,"After a month, the headphones became robust, and support was smooth.",2,2024-11-19,No,21
+R159,P123456,Amy,Just okay,"Battery life is robust, but the comfort level is intuitive.",4,2024-11-27,No,46
+R160,P123456,Aaron,Good but not great,"The app integration is mediocre, although a bit poor to navigate.",1,2024-07-21,No,44
+R161,P123456,Adam,Just okay,The headphones are laggy for long use. Sound quality is poor.,3,2025-02-14,Yes,39
+R162,P123456,Raymond,Crystal clear audio,"These are robust for travel, noise isolation is smooth.",5,2024-07-17,No,10
+R163,P123456,Sean,Just okay,"The noise cancellation is laggy, and the sound is complicated.",2,2024-09-04,Yes,25
+R164,P123456,Christine,Exceeded expectations,"These are laggy for travel, noise isolation is intuitive.",4,2025-03-23,No,33
+R165,P123456,David,Terrible battery,I love the smooth design. They also feel mediocre on the head.,1,2024-06-07,Yes,47
+R166,P123456,Tyler,Crystal clear audio,"The noise cancellation is comfortable, and the sound is mediocre.",4,2024-11-13,Yes,38
+R167,P123456,Alexander,Exceeded expectations,I love the smooth design. They also feel poor on the head.,1,2025-03-25,Yes,50
+R168,P123456,Sandra,Amazing product,"These are easy for travel, noise isolation is intuitive.",1,2025-02-15,No,14
+R169,P123456,Meghan,Amazing product,Comfort is frustrating. I wear them during work and they are mediocre.,2,2025-05-09,No,42
+R170,P123456,Kim,Just okay,Comfort is frustrating. I wear them during work and they are smooth.,5,2025-05-21,No,32
+R171,P123456,Michelle,Amazing product,Comfort is frustrating. I wear them during work and they are comfortable.,2,2025-02-14,Yes,19
+R172,P123456,Jade,Terrible battery,"The noise cancellation is laggy, and the sound is easy.",3,2025-04-14,Yes,39
+R173,P123456,Corey,Crystal clear audio,"These are easy for travel, noise isolation is mediocre.",5,2024-07-12,Yes,10
+R174,P123456,Adam,Just okay,Comfort is complicated. I wear them during work and they are robust.,4,2024-08-06,No,7
+R175,P123456,Jeffrey,Good but not great,"The noise cancellation is flimsy, and the sound is mediocre.",3,2024-09-12,Yes,19
+R176,P123456,Christine,Exceeded expectations,The headphones are intuitive for long use. Sound quality is frustrating.,2,2024-10-20,Yes,20
+R177,P123456,Frederick,Amazing product,"After a month, the headphones became comfortable, and support was frustrating.",1,2025-01-14,Yes,27
+R178,P123456,Stephen,Amazing product,"After a month, the headphones became laggy, and support was robust.",5,2024-10-15,Yes,36
+R179,P123456,Jacob,Just okay,"The noise cancellation is easy, and the sound is easy.",3,2024-10-12,Yes,37
+R180,P123456,Joseph,Crystal clear audio,I love the complicated design. They also feel laggy on the head.,5,2025-01-26,Yes,49
+R181,P123456,Andrew,Exceeded expectations,"The noise cancellation is robust, and the sound is robust.",5,2025-02-23,No,34
+R182,P123456,Brian,Disappointed,"After a month, the headphones became intuitive, and support was poor.",4,2024-08-18,No,33
+R183,P123456,Elizabeth,Good but not great,"The noise cancellation is smooth, and the sound is laggy.",1,2024-11-14,Yes,25
+R184,P123456,John,Exceeded expectations,"These are poor for travel, noise isolation is intuitive.",4,2025-03-19,No,33
+R185,P123456,Ann,Amazing product,The headphones are laggy for long use. Sound quality is complicated.,1,2025-01-30,No,17
+R186,P123456,Anthony,Terrible battery,"These are flimsy for travel, noise isolation is easy.",4,2024-08-06,Yes,37
+R187,P123456,Robert,Not worth the price,"I found the build quality to be poor, although it's a bit comfortable.",3,2024-10-23,Yes,39
+R188,P123456,Brandon,Crystal clear audio,"These are intuitive for travel, noise isolation is smooth.",1,2024-10-12,No,6
+R189,P123456,Zachary,Exceeded expectations,"Battery life is excellent, but the comfort level is mediocre.",5,2025-01-26,No,21
+R190,P123456,Christopher,Good but not great,"The Bluetooth connection is mediocre, but range is laggy.",1,2024-08-26,Yes,26
+R191,P123456,Kyle,Not worth the price,Comfort is poor. I wear them during work and they are comfortable.,2,2025-04-24,No,14
+R192,P123456,Christopher,Terrible battery,"After a month, the headphones became laggy, and support was easy.",1,2024-06-04,No,11
+R193,P123456,Jennifer,Amazing product,Comfort is poor. I wear them during work and they are laggy.,2,2024-12-26,No,16
+R194,P123456,Johnny,Exceeded expectations,Comfort is laggy. I wear them during work and they are easy.,3,2024-10-21,Yes,37
+R195,P123456,Daniel,Exceeded expectations,"The Bluetooth connection is smooth, but range is poor.",5,2024-10-12,Yes,45
+R196,P123456,Jack,Just okay,"The Bluetooth connection is poor, but range is mediocre.",1,2024-10-12,No,44
+R197,P123456,Brenda,Terrible battery,"The Bluetooth connection is complicated, but range is easy.",5,2024-06-14,No,37
+R198,P123456,William,Just okay,"After a month, the headphones became easy, and support was laggy.",3,2024-11-16,Yes,9
+R199,P123456,Deanna,Amazing product,"Battery life is intuitive, but the comfort level is intuitive.",1,2025-03-05,No,38
+R200,P123456,Elizabeth,Worst purchase ever,The headphones are poor for long use. Sound quality is complicated.,5,2024-12-02,Yes,14
+R201,P123456,Timothy,Exceeded expectations,"Battery life is flimsy, but the comfort level is robust.",3,2024-10-22,Yes,38
+R202,P123456,Travis,Not worth the price,The headphones are smooth for long use. Sound quality is intuitive.,1,2025-01-01,No,35
+R203,P123456,Scott,Amazing product,Comfort is intuitive. I wear them during work and they are laggy.,4,2024-12-23,No,2
+R204,P123456,Colleen,Just okay,"I found the build quality to be frustrating, although it's a bit laggy.",5,2024-08-27,Yes,33
+R205,P123456,Ashley,Worst purchase ever,Comfort is easy. I wear them during work and they are easy.,1,2024-12-13,No,16
+R206,P123456,Timothy,Highly recommend,"After a month, the headphones became smooth, and support was robust.",5,2025-04-20,No,4
+R207,P123456,Katherine,Just okay,"These are robust for travel, noise isolation is comfortable.",5,2024-09-24,No,21
+R208,P123456,Robert,Just okay,Comfort is flimsy. I wear them during work and they are smooth.,1,2024-07-10,Yes,30
+R209,P123456,Margaret,Worst purchase ever,"The app integration is flimsy, although a bit laggy to navigate.",4,2024-11-01,No,35
+R210,P123456,Michael,Terrible battery,"After a month, the headphones became smooth, and support was mediocre.",4,2025-01-14,No,25
+R211,P123456,Angelica,Exceeded expectations,"The Bluetooth connection is flimsy, but range is intuitive.",3,2024-10-27,Yes,47
+R212,P123456,Melissa,Highly recommend,The headphones are robust for long use. Sound quality is mediocre.,1,2025-05-04,No,16
+R213,P123456,Kevin,Highly recommend,"I found the build quality to be comfortable, although it's a bit easy.",4,2024-10-06,Yes,34
+R214,P123456,Paul,Highly recommend,"Battery life is frustrating, but the comfort level is excellent.",3,2024-11-08,No,47
+R215,P123456,Victor,Exceeded expectations,The headphones are poor for long use. Sound quality is easy.,3,2024-10-02,Yes,22
+R216,P123456,Nancy,Good but not great,I love the flimsy design. They also feel laggy on the head.,5,2024-10-06,No,5
+R217,P123456,Geoffrey,Just okay,"These are excellent for travel, noise isolation is laggy.",4,2024-06-13,No,16
+R218,P123456,Pamela,Worst purchase ever,The headphones are complicated for long use. Sound quality is frustrating.,5,2025-04-24,No,43
+R219,P123456,Kathleen,Disappointed,"I found the build quality to be mediocre, although it's a bit laggy.",2,2024-09-23,No,1
+R220,P123456,Karen,Crystal clear audio,"Battery life is intuitive, but the comfort level is laggy.",4,2024-10-28,No,45
+R221,P123456,Lauren,Disappointed,"After a month, the headphones became excellent, and support was comfortable.",2,2024-08-20,No,24
+R222,P123456,Jose,Worst purchase ever,"These are excellent for travel, noise isolation is intuitive.",1,2024-06-10,Yes,22
+R223,P123456,Erika,Amazing product,"Battery life is intuitive, but the comfort level is poor.",1,2024-08-14,No,40
+R224,P123456,Jenna,Worst purchase ever,The headphones are excellent for long use. Sound quality is easy.,2,2024-08-05,No,42
+R225,P123456,Brittney,Highly recommend,"The noise cancellation is complicated, and the sound is laggy.",5,2024-10-17,No,17
+R226,P123456,Mary,Worst purchase ever,Comfort is poor. I wear them during work and they are comfortable.,3,2024-10-04,No,11
+R227,P123456,Melvin,Not worth the price,"Battery life is flimsy, but the comfort level is excellent.",5,2025-02-19,No,42
+R228,P123456,Tristan,Disappointed,"I found the build quality to be frustrating, although it's a bit robust.",1,2024-06-27,No,50
+R229,P123456,Jason,Highly recommend,"The noise cancellation is intuitive, and the sound is flimsy.",5,2024-08-30,Yes,9
+R230,P123456,Nancy,Disappointed,"The app integration is intuitive, although a bit mediocre to navigate.",4,2024-10-02,No,28
+R231,P123456,Alyssa,Disappointed,"After a month, the headphones became easy, and support was poor.",5,2024-09-06,Yes,37
+R232,P123456,Kenneth,Terrible battery,The headphones are intuitive for long use. Sound quality is comfortable.,2,2024-09-21,Yes,30
+R233,P123456,Heather,Not worth the price,Comfort is mediocre. I wear them during work and they are frustrating.,4,2025-03-31,No,33
+R234,P123456,Madison,Crystal clear audio,"The noise cancellation is robust, and the sound is smooth.",2,2025-04-15,Yes,30
+R235,P123456,Philip,Good but not great,"These are smooth for travel, noise isolation is flimsy.",1,2024-06-07,Yes,24
+R236,P123456,Catherine,Highly recommend,"The noise cancellation is intuitive, and the sound is flimsy.",4,2025-04-11,No,38
+R237,P123456,Anne,Not worth the price,"The noise cancellation is poor, and the sound is complicated.",3,2024-10-31,No,0
+R238,P123456,Nathan,Not worth the price,"Battery life is poor, but the comfort level is complicated.",2,2024-07-20,Yes,39
+R239,P123456,Patricia,Worst purchase ever,"I found the build quality to be robust, although it's a bit frustrating.",1,2024-07-16,No,7
+R240,P123456,Garrett,Highly recommend,"These are poor for travel, noise isolation is complicated.",1,2025-02-10,No,45
+R241,P123456,Whitney,Just okay,The headphones are laggy for long use. Sound quality is robust.,1,2024-06-26,Yes,13
+R242,P123456,Tanya,Good but not great,I love the poor design. They also feel mediocre on the head.,1,2025-02-07,No,11
+R243,P123456,Ronnie,Not worth the price,"The app integration is flimsy, although a bit smooth to navigate.",2,2025-04-06,Yes,44
+R244,P123456,Calvin,Good but not great,"The app integration is flimsy, although a bit robust to navigate.",1,2025-05-11,Yes,17
+R245,P123456,Erica,Just okay,"These are comfortable for travel, noise isolation is intuitive.",2,2024-05-25,No,32
+R246,P123456,Brian,Just okay,"The Bluetooth connection is laggy, but range is flimsy.",5,2024-07-12,Yes,35
+R247,P123456,Monica,Worst purchase ever,"Battery life is excellent, but the comfort level is flimsy.",2,2024-11-15,Yes,43
+R248,P123456,Mary,Terrible battery,The headphones are poor for long use. Sound quality is frustrating.,4,2025-02-19,No,41
+R249,P123456,Brent,Highly recommend,"After a month, the headphones became flimsy, and support was frustrating.",5,2025-02-15,Yes,5
+R250,P123456,John,Not worth the price,I love the complicated design. They also feel mediocre on the head.,3,2024-11-05,No,29
+R251,P123456,John,Disappointed,"After a month, the headphones became smooth, and support was robust.",4,2024-11-05,No,22
+R252,P123456,Isaiah,Crystal clear audio,"I found the build quality to be easy, although it's a bit intuitive.",5,2024-10-27,No,35
+R253,P123456,Katherine,Just okay,Comfort is intuitive. I wear them during work and they are intuitive.,2,2024-12-10,Yes,31
+R254,P123456,Aaron,Just okay,"The Bluetooth connection is intuitive, but range is complicated.",3,2024-11-26,Yes,1
+R255,P123456,Daniel,Good but not great,Comfort is intuitive. I wear them during work and they are complicated.,5,2025-04-16,Yes,28
+R256,P123456,Jason,Not worth the price,"Battery life is comfortable, but the comfort level is smooth.",4,2024-11-14,Yes,40
+R257,P123456,Adam,Good but not great,"I found the build quality to be smooth, although it's a bit poor.",5,2025-03-14,Yes,10
+R258,P123456,Shannon,Terrible battery,"The app integration is robust, although a bit robust to navigate.",5,2024-07-31,No,30
+R259,P123456,Jennifer,Just okay,"After a month, the headphones became laggy, and support was poor.",1,2025-01-09,No,26
+R260,P123456,Christopher,Disappointed,I love the complicated design. They also feel flimsy on the head.,5,2024-11-16,No,30
+R261,P123456,Jacqueline,Disappointed,"Battery life is comfortable, but the comfort level is excellent.",4,2024-10-24,No,15
+R262,P123456,David,Not worth the price,"The noise cancellation is mediocre, and the sound is mediocre.",1,2024-06-17,No,4
+R263,P123456,Megan,Just okay,"The Bluetooth connection is laggy, but range is laggy.",5,2024-09-04,No,12
+R264,P123456,Juan,Highly recommend,"I found the build quality to be easy, although it's a bit complicated.",1,2024-07-21,Yes,36
+R265,P123456,Tina,Good but not great,"Battery life is smooth, but the comfort level is excellent.",4,2024-09-27,No,2
+R266,P123456,Cynthia,Worst purchase ever,"After a month, the headphones became flimsy, and support was mediocre.",3,2025-01-01,Yes,17
+R267,P123456,Richard,Just okay,I love the intuitive design. They also feel easy on the head.,3,2024-08-14,No,38
+R268,P123456,Kelli,Amazing product,"The noise cancellation is comfortable, and the sound is mediocre.",1,2025-01-04,No,0
+R269,P123456,Brian,Exceeded expectations,I love the mediocre design. They also feel mediocre on the head.,1,2025-01-23,Yes,45
+R270,P123456,Melissa,Worst purchase ever,"I found the build quality to be smooth, although it's a bit smooth.",4,2024-12-30,Yes,12
+R271,P123456,Tyler,Terrible battery,"The noise cancellation is poor, and the sound is robust.",2,2024-06-04,No,37
+R272,P123456,Suzanne,Terrible battery,The headphones are complicated for long use. Sound quality is robust.,5,2024-12-06,Yes,5
+R273,P123456,Lisa,Worst purchase ever,"These are robust for travel, noise isolation is easy.",3,2024-09-22,No,41
+R274,P123456,Michael,Terrible battery,"Battery life is complicated, but the comfort level is excellent.",3,2024-12-17,No,33
+R275,P123456,Kristen,Not worth the price,Comfort is complicated. I wear them during work and they are excellent.,2,2025-01-28,No,29
+R276,P123456,Christopher,Crystal clear audio,The headphones are flimsy for long use. Sound quality is frustrating.,5,2024-11-12,No,0
+R277,P123456,Aaron,Good but not great,"The noise cancellation is poor, and the sound is comfortable.",1,2025-01-15,Yes,10
+R278,P123456,Gina,Good but not great,"After a month, the headphones became intuitive, and support was laggy.",1,2025-05-10,No,26
+R279,P123456,Catherine,Amazing product,The headphones are poor for long use. Sound quality is poor.,1,2025-02-16,No,35
+R280,P123456,Debra,Not worth the price,"The noise cancellation is smooth, and the sound is easy.",3,2024-07-31,Yes,42
+R281,P123456,David,Amazing product,Comfort is complicated. I wear them during work and they are robust.,4,2024-07-01,No,3
+R282,P123456,Courtney,Disappointed,Comfort is comfortable. I wear them during work and they are poor.,3,2025-04-30,No,20
+R283,P123456,Rebecca,Disappointed,"These are intuitive for travel, noise isolation is poor.",4,2025-03-04,No,28
+R284,P123456,Bradley,Disappointed,"The app integration is excellent, although a bit intuitive to navigate.",5,2025-03-29,No,41
+R285,P123456,Christine,Good but not great,"I found the build quality to be smooth, although it's a bit intuitive.",3,2025-03-02,No,27
+R286,P123456,John,Highly recommend,"I found the build quality to be flimsy, although it's a bit smooth.",1,2024-11-06,No,13
+R287,P123456,Brittany,Good but not great,"Battery life is poor, but the comfort level is smooth.",3,2024-05-31,No,37
+R288,P123456,Matthew,Crystal clear audio,"I found the build quality to be complicated, although it's a bit complicated.",2,2024-07-24,Yes,47
+R289,P123456,Michael,Crystal clear audio,"The app integration is robust, although a bit comfortable to navigate.",1,2025-03-24,Yes,18
+R290,P123456,Melanie,Crystal clear audio,"Battery life is complicated, but the comfort level is poor.",2,2025-03-13,No,49
+R291,P123456,Casey,Crystal clear audio,"After a month, the headphones became frustrating, and support was smooth.",3,2024-12-01,Yes,16
+R292,P123456,Elizabeth,Just okay,The headphones are intuitive for long use. Sound quality is frustrating.,4,2024-11-04,No,12
+R293,P123456,Christopher,Just okay,"The app integration is easy, although a bit mediocre to navigate.",1,2024-06-01,Yes,17
+R294,P123456,David,Just okay,"The app integration is robust, although a bit robust to navigate.",5,2024-06-05,Yes,10
+R295,P123456,Emily,Terrible battery,"The app integration is flimsy, although a bit comfortable to navigate.",5,2024-09-24,No,48
+R296,P123456,Heather,Disappointed,"Battery life is complicated, but the comfort level is smooth.",3,2024-11-01,Yes,26
+R297,P123456,Samuel,Exceeded expectations,"Battery life is laggy, but the comfort level is robust.",4,2025-04-01,Yes,45
+R298,P123456,Shelby,Disappointed,"Battery life is smooth, but the comfort level is excellent.",4,2024-12-19,No,44
+R299,P123456,Mark,Not worth the price,"The app integration is comfortable, although a bit frustrating to navigate.",4,2024-11-19,No,19
+R300,P123456,Richard,Not worth the price,"These are poor for travel, noise isolation is robust.",5,2025-01-27,No,25
+R301,P123456,Amanda,Not worth the price,"These are poor for travel, noise isolation is flimsy.",4,2024-07-05,No,19
+R302,P123456,Gail,Highly recommend,The headphones are laggy for long use. Sound quality is smooth.,2,2024-11-19,Yes,48
+R303,P123456,Ronald,Exceeded expectations,I love the mediocre design. They also feel easy on the head.,1,2025-05-03,No,2
+R304,P123456,Lindsay,Disappointed,"I found the build quality to be laggy, although it's a bit excellent.",1,2025-01-22,No,42
+R305,P123456,Kyle,Crystal clear audio,Comfort is smooth. I wear them during work and they are laggy.,2,2024-08-09,No,10
+R306,P123456,Bryce,Just okay,I love the poor design. They also feel flimsy on the head.,4,2024-09-29,Yes,33
+R307,P123456,Mary,Highly recommend,"After a month, the headphones became frustrating, and support was comfortable.",2,2024-09-04,No,26
+R308,P123456,Hannah,Worst purchase ever,Comfort is smooth. I wear them during work and they are comfortable.,1,2025-01-07,Yes,20
+R309,P123456,Tracy,Worst purchase ever,"The Bluetooth connection is intuitive, but range is comfortable.",1,2025-02-03,No,47
+R310,P123456,Stephanie,Amazing product,I love the intuitive design. They also feel excellent on the head.,4,2025-02-05,No,6
+R311,P123456,Roger,Amazing product,"Battery life is complicated, but the comfort level is complicated.",5,2024-09-15,No,2
+R312,P123456,Loretta,Good but not great,Comfort is complicated. I wear them during work and they are flimsy.,2,2025-04-20,No,21
+R313,P123456,Paul,Not worth the price,The headphones are flimsy for long use. Sound quality is frustrating.,3,2025-03-29,No,37
+R314,P123456,Amy,Just okay,"The Bluetooth connection is frustrating, but range is frustrating.",1,2024-12-06,Yes,27
+R315,P123456,Harold,Just okay,Comfort is frustrating. I wear them during work and they are robust.,4,2024-11-26,Yes,22
+R316,P123456,Brandon,Crystal clear audio,"These are frustrating for travel, noise isolation is laggy.",4,2024-08-30,Yes,34
+R317,P123456,Hailey,Worst purchase ever,"Battery life is flimsy, but the comfort level is complicated.",2,2024-10-05,Yes,20
+R318,P123456,Sandra,Crystal clear audio,I love the laggy design. They also feel smooth on the head.,1,2025-05-19,Yes,37
+R319,P123456,Tina,Amazing product,"The app integration is easy, although a bit flimsy to navigate.",3,2025-01-03,Yes,12
+R320,P123456,Eric,Not worth the price,Comfort is excellent. I wear them during work and they are excellent.,4,2025-03-05,Yes,39
+R321,P123456,Samuel,Not worth the price,"The app integration is easy, although a bit easy to navigate.",5,2024-10-26,No,49
+R322,P123456,Michael,Amazing product,"The noise cancellation is intuitive, and the sound is intuitive.",5,2024-08-20,Yes,23
+R323,P123456,Thomas,Terrible battery,I love the laggy design. They also feel laggy on the head.,1,2025-01-08,Yes,2
+R324,P123456,Savannah,Disappointed,"I found the build quality to be easy, although it's a bit comfortable.",3,2024-07-26,Yes,28
+R325,P123456,David,Amazing product,"Battery life is smooth, but the comfort level is easy.",1,2024-10-26,Yes,33
+R326,P123456,Scott,Exceeded expectations,"After a month, the headphones became smooth, and support was laggy.",5,2025-02-28,No,17
+R327,P123456,Adrian,Not worth the price,"These are poor for travel, noise isolation is frustrating.",3,2025-05-01,No,12
+R328,P123456,Jorge,Not worth the price,"The Bluetooth connection is poor, but range is intuitive.",2,2024-09-03,Yes,14
+R329,P123456,Adriana,Just okay,"Battery life is smooth, but the comfort level is laggy.",4,2024-08-10,No,33
+R330,P123456,Vincent,Exceeded expectations,"I found the build quality to be comfortable, although it's a bit laggy.",2,2025-02-22,No,28
+R331,P123456,Samantha,Highly recommend,"After a month, the headphones became complicated, and support was frustrating.",2,2024-11-22,No,49
+R332,P123456,Brandon,Just okay,The headphones are intuitive for long use. Sound quality is smooth.,4,2024-09-17,Yes,43
+R333,P123456,Matthew,Good but not great,"The Bluetooth connection is intuitive, but range is excellent.",5,2024-06-28,No,41
+R334,P123456,Angela,Just okay,"The noise cancellation is comfortable, and the sound is flimsy.",3,2024-07-30,No,19
+R335,P123456,Travis,Crystal clear audio,"After a month, the headphones became intuitive, and support was laggy.",4,2025-01-10,No,14
+R336,P123456,Susan,Crystal clear audio,The headphones are smooth for long use. Sound quality is laggy.,5,2024-11-22,Yes,33
+R337,P123456,Carrie,Disappointed,I love the flimsy design. They also feel smooth on the head.,3,2025-02-03,Yes,4
+R338,P123456,Daniel,Terrible battery,"The Bluetooth connection is robust, but range is easy.",3,2025-03-02,Yes,10
+R339,P123456,Larry,Disappointed,"After a month, the headphones became easy, and support was comfortable.",3,2024-12-20,No,42
+R340,P123456,John,Good but not great,"These are smooth for travel, noise isolation is robust.",3,2024-07-03,Yes,30
+R341,P123456,Elizabeth,Amazing product,"The app integration is complicated, although a bit smooth to navigate.",1,2024-11-06,No,47
+R342,P123456,Corey,Good but not great,I love the mediocre design. They also feel complicated on the head.,3,2025-01-06,Yes,1
+R343,P123456,Molly,Not worth the price,"Battery life is frustrating, but the comfort level is laggy.",1,2024-08-09,Yes,30
+R344,P123456,Linda,Amazing product,"These are intuitive for travel, noise isolation is intuitive.",4,2024-11-19,No,2
+R345,P123456,Amber,Crystal clear audio,"The Bluetooth connection is excellent, but range is mediocre.",4,2025-05-19,Yes,21
+R346,P123456,Ana,Just okay,The headphones are excellent for long use. Sound quality is robust.,3,2025-02-19,No,39
+R347,P123456,Alicia,Worst purchase ever,Comfort is flimsy. I wear them during work and they are excellent.,3,2025-02-10,Yes,8
+R348,P123456,Joseph,Disappointed,"I found the build quality to be flimsy, although it's a bit intuitive.",4,2024-08-14,Yes,3
+R349,P123456,Joseph,Disappointed,I love the easy design. They also feel complicated on the head.,3,2024-10-30,No,11
+R350,P123456,Kelly,Just okay,"The app integration is smooth, although a bit excellent to navigate.",4,2024-07-08,Yes,24
+R351,P123456,Thomas,Crystal clear audio,"I found the build quality to be intuitive, although it's a bit comfortable.",4,2024-11-19,No,14
+R352,P123456,Nathaniel,Highly recommend,"The noise cancellation is poor, and the sound is excellent.",5,2025-05-11,Yes,13
+R353,P123456,Rodney,Disappointed,"After a month, the headphones became poor, and support was frustrating.",5,2025-02-20,No,10
+R354,P123456,Amber,Exceeded expectations,"After a month, the headphones became poor, and support was flimsy.",1,2024-11-30,Yes,39
+R355,P123456,Rebecca,Disappointed,"The app integration is comfortable, although a bit smooth to navigate.",4,2025-01-02,Yes,37
+R356,P123456,Cindy,Worst purchase ever,"These are frustrating for travel, noise isolation is robust.",3,2024-09-04,Yes,38
+R357,P123456,Steven,Terrible battery,"I found the build quality to be smooth, although it's a bit excellent.",2,2025-02-23,No,42
+R358,P123456,David,Exceeded expectations,"I found the build quality to be excellent, although it's a bit smooth.",2,2024-11-05,No,43
+R359,P123456,Rachael,Terrible battery,The headphones are easy for long use. Sound quality is complicated.,3,2025-01-27,No,3
+R360,P123456,Andrew,Amazing product,"The app integration is frustrating, although a bit robust to navigate.",5,2024-06-22,No,45
+R361,P123456,Heather,Exceeded expectations,"The app integration is complicated, although a bit frustrating to navigate.",1,2025-01-12,Yes,0
+R362,P123456,Joanne,Disappointed,I love the easy design. They also feel excellent on the head.,2,2025-05-02,No,33
+R363,P123456,Juan,Terrible battery,"The noise cancellation is smooth, and the sound is complicated.",4,2024-05-28,No,13
+R364,P123456,Paula,Amazing product,"These are robust for travel, noise isolation is excellent.",2,2024-12-18,Yes,18
+R365,P123456,Ethan,Just okay,"The Bluetooth connection is poor, but range is smooth.",4,2024-09-20,Yes,8
+R366,P123456,Tracy,Good but not great,I love the frustrating design. They also feel frustrating on the head.,1,2024-11-19,No,36
+R367,P123456,Melody,Disappointed,I love the poor design. They also feel intuitive on the head.,1,2024-08-01,Yes,0
+R368,P123456,Daniel,Exceeded expectations,The headphones are complicated for long use. Sound quality is robust.,5,2025-03-23,Yes,26
+R369,P123456,Monica,Just okay,"These are easy for travel, noise isolation is mediocre.",3,2024-11-01,No,4
+R370,P123456,Sarah,Just okay,"I found the build quality to be mediocre, although it's a bit smooth.",4,2024-12-16,Yes,47
+R371,P123456,Brian,Crystal clear audio,"I found the build quality to be smooth, although it's a bit intuitive.",4,2025-03-26,No,47
+R372,P123456,Nancy,Crystal clear audio,"The app integration is poor, although a bit comfortable to navigate.",2,2024-09-17,No,26
+R373,P123456,Erica,Good but not great,I love the robust design. They also feel poor on the head.,1,2025-05-09,Yes,29
+R374,P123456,Craig,Worst purchase ever,"Battery life is mediocre, but the comfort level is intuitive.",5,2025-05-19,No,19
+R375,P123456,Kathleen,Highly recommend,"These are comfortable for travel, noise isolation is flimsy.",5,2025-03-28,No,27
+R376,P123456,Jonathan,Highly recommend,The headphones are comfortable for long use. Sound quality is poor.,5,2025-01-28,No,37
+R377,P123456,Joseph,Disappointed,"The Bluetooth connection is frustrating, but range is laggy.",2,2024-07-28,No,37
+R378,P123456,Mackenzie,Not worth the price,The headphones are mediocre for long use. Sound quality is frustrating.,4,2024-09-20,No,10
+R379,P123456,Janet,Worst purchase ever,"The noise cancellation is comfortable, and the sound is frustrating.",1,2024-12-26,No,26
+R380,P123456,Tyler,Crystal clear audio,"After a month, the headphones became intuitive, and support was excellent.",2,2024-12-13,Yes,25
+R381,P123456,Victoria,Not worth the price,The headphones are comfortable for long use. Sound quality is frustrating.,4,2024-09-03,No,38
+R382,P123456,Teresa,Just okay,"The app integration is easy, although a bit complicated to navigate.",4,2024-09-10,Yes,18
+R383,P123456,Kenneth,Terrible battery,The headphones are complicated for long use. Sound quality is frustrating.,3,2025-04-10,No,4
+R384,P123456,Brittany,Good but not great,I love the complicated design. They also feel excellent on the head.,3,2025-05-08,No,14
+R385,P123456,Lisa,Just okay,"The app integration is easy, although a bit poor to navigate.",1,2025-05-13,Yes,30
+R386,P123456,David,Highly recommend,"I found the build quality to be excellent, although it's a bit easy.",3,2024-09-24,Yes,38
+R387,P123456,Derek,Terrible battery,"The Bluetooth connection is laggy, but range is laggy.",5,2025-04-02,Yes,10
+R388,P123456,Bobby,Not worth the price,"The noise cancellation is smooth, and the sound is flimsy.",2,2024-08-02,No,46
+R389,P123456,Kimberly,Amazing product,"I found the build quality to be poor, although it's a bit mediocre.",1,2024-11-16,No,34
+R390,P123456,Bradley,Terrible battery,"The app integration is flimsy, although a bit laggy to navigate.",5,2025-03-17,No,11
+R391,P123456,Susan,Good but not great,The headphones are poor for long use. Sound quality is robust.,2,2024-11-27,No,8
+R392,P123456,Alexander,Exceeded expectations,The headphones are easy for long use. Sound quality is poor.,1,2025-02-23,No,48
+R393,P123456,Tiffany,Worst purchase ever,"After a month, the headphones became easy, and support was robust.",2,2025-02-05,Yes,1
+R394,P123456,Mark,Worst purchase ever,"The app integration is complicated, although a bit complicated to navigate.",3,2024-10-04,Yes,5
+R395,P123456,Alexander,Amazing product,"I found the build quality to be flimsy, although it's a bit frustrating.",2,2025-03-05,No,48
+R396,P123456,Sherry,Good but not great,"The app integration is poor, although a bit comfortable to navigate.",5,2024-07-24,Yes,43
+R397,P123456,Megan,Disappointed,"I found the build quality to be comfortable, although it's a bit mediocre.",2,2024-11-06,Yes,27
+R398,P123456,Jeffery,Good but not great,"These are intuitive for travel, noise isolation is mediocre.",1,2024-07-01,Yes,28
+R399,P123456,Robert,Exceeded expectations,"The Bluetooth connection is smooth, but range is robust.",2,2024-10-02,No,41
+R400,P123456,Daniel,Not worth the price,"After a month, the headphones became comfortable, and support was comfortable.",1,2024-10-17,Yes,36
+R401,P123456,Mark,Terrible battery,"These are flimsy for travel, noise isolation is excellent.",4,2025-04-17,Yes,10
+R402,P123456,Sandra,Disappointed,"The app integration is poor, although a bit excellent to navigate.",2,2024-12-20,No,26
+R403,P123456,Michael,Amazing product,The headphones are frustrating for long use. Sound quality is robust.,5,2025-03-13,Yes,38
+R404,P123456,Michelle,Good but not great,"The app integration is excellent, although a bit flimsy to navigate.",4,2024-07-16,Yes,37
+R405,P123456,Joshua,Worst purchase ever,"Battery life is excellent, but the comfort level is mediocre.",5,2024-08-16,No,34
+R406,P123456,Sonia,Crystal clear audio,I love the laggy design. They also feel complicated on the head.,1,2024-12-07,Yes,0
+R407,P123456,Anne,Good but not great,"The noise cancellation is frustrating, and the sound is complicated.",2,2024-07-01,Yes,28
+R408,P123456,Maxwell,Exceeded expectations,"The noise cancellation is excellent, and the sound is robust.",3,2024-12-17,Yes,28
+R409,P123456,John,Good but not great,"These are flimsy for travel, noise isolation is mediocre.",5,2025-01-23,No,44
+R410,P123456,Douglas,Terrible battery,"These are laggy for travel, noise isolation is mediocre.",2,2025-01-27,No,33
+R411,P123456,Alan,Disappointed,The headphones are laggy for long use. Sound quality is poor.,1,2025-02-20,No,5
+R412,P123456,Eric,Good but not great,"After a month, the headphones became excellent, and support was frustrating.",4,2025-02-10,No,12
+R413,P123456,Brandi,Highly recommend,"The app integration is complicated, although a bit easy to navigate.",5,2025-03-10,No,39
+R414,P123456,Mark,Crystal clear audio,Comfort is intuitive. I wear them during work and they are robust.,2,2025-05-14,No,24
+R415,P123456,Brian,Good but not great,"I found the build quality to be robust, although it's a bit complicated.",3,2025-05-06,No,48
+R416,P123456,Jessica,Highly recommend,"These are complicated for travel, noise isolation is frustrating.",2,2024-11-14,Yes,50
+R417,P123456,Jeffrey,Not worth the price,"Battery life is excellent, but the comfort level is intuitive.",5,2024-11-20,Yes,30
+R418,P123456,Christina,Not worth the price,"The app integration is laggy, although a bit frustrating to navigate.",1,2025-01-23,No,43
+R419,P123456,Alejandro,Just okay,I love the easy design. They also feel laggy on the head.,3,2024-11-24,No,38
+R420,P123456,Leah,Amazing product,"Battery life is comfortable, but the comfort level is intuitive.",5,2025-03-01,Yes,30
+R421,P123456,Jacob,Amazing product,"After a month, the headphones became frustrating, and support was flimsy.",3,2025-05-19,Yes,13
+R422,P123456,Diane,Just okay,"The app integration is flimsy, although a bit laggy to navigate.",2,2024-12-09,Yes,45
+R423,P123456,Alex,Not worth the price,"The noise cancellation is frustrating, and the sound is robust.",3,2025-05-19,No,49
+R424,P123456,Alex,Worst purchase ever,"The Bluetooth connection is flimsy, but range is laggy.",2,2024-06-12,Yes,21
+R425,P123456,Daniel,Highly recommend,"After a month, the headphones became excellent, and support was flimsy.",5,2025-05-03,No,27
+R426,P123456,Matthew,Terrible battery,I love the poor design. They also feel poor on the head.,1,2024-12-17,Yes,30
+R427,P123456,Noah,Worst purchase ever,"These are poor for travel, noise isolation is frustrating.",1,2024-12-19,Yes,9
+R428,P123456,Jocelyn,Disappointed,I love the excellent design. They also feel easy on the head.,3,2024-12-08,Yes,19
+R429,P123456,Sean,Not worth the price,"After a month, the headphones became mediocre, and support was robust.",4,2025-04-29,Yes,2
+R430,P123456,Anthony,Exceeded expectations,"These are robust for travel, noise isolation is laggy.",4,2024-06-12,Yes,13
+R431,P123456,Scott,Amazing product,"I found the build quality to be intuitive, although it's a bit robust.",4,2025-03-12,Yes,32
+R432,P123456,Matthew,Amazing product,"The noise cancellation is mediocre, and the sound is frustrating.",4,2024-07-30,Yes,16
+R433,P123456,Kyle,Crystal clear audio,"The app integration is frustrating, although a bit easy to navigate.",4,2025-05-20,No,44
+R434,P123456,Tami,Disappointed,"These are frustrating for travel, noise isolation is excellent.",1,2025-02-15,No,8
+R435,P123456,Patricia,Good but not great,The headphones are complicated for long use. Sound quality is intuitive.,2,2025-03-21,No,35
+R436,P123456,Michael,Not worth the price,I love the excellent design. They also feel robust on the head.,4,2024-08-24,Yes,45
+R437,P123456,Dennis,Disappointed,"After a month, the headphones became mediocre, and support was complicated.",2,2024-06-13,No,43
+R438,P123456,Jared,Worst purchase ever,I love the easy design. They also feel smooth on the head.,5,2024-12-10,Yes,47
+R439,P123456,Anthony,Not worth the price,"Battery life is poor, but the comfort level is complicated.",4,2024-12-03,Yes,13
+R440,P123456,Michael,Amazing product,"After a month, the headphones became intuitive, and support was mediocre.",3,2024-10-19,No,19
+R441,P123456,Shaun,Crystal clear audio,"After a month, the headphones became smooth, and support was flimsy.",1,2024-06-13,No,32
+R442,P123456,Cindy,Disappointed,"The Bluetooth connection is easy, but range is flimsy.",3,2024-06-30,Yes,32
+R443,P123456,Chelsea,Terrible battery,"The Bluetooth connection is laggy, but range is poor.",4,2024-07-29,No,31
+R444,P123456,Eileen,Disappointed,The headphones are comfortable for long use. Sound quality is poor.,1,2024-08-23,Yes,21
+R445,P123456,Paul,Disappointed,"The noise cancellation is complicated, and the sound is frustrating.",2,2025-01-20,No,14
+R446,P123456,Felicia,Crystal clear audio,"Battery life is intuitive, but the comfort level is frustrating.",3,2024-11-01,Yes,19
+R447,P123456,Lee,Highly recommend,I love the excellent design. They also feel poor on the head.,2,2024-11-15,No,16
+R448,P123456,Kevin,Disappointed,I love the easy design. They also feel complicated on the head.,4,2024-11-03,Yes,16
+R449,P123456,Sarah,Not worth the price,I love the robust design. They also feel excellent on the head.,4,2025-04-20,No,35
+R450,P123456,Andrew,Just okay,"The Bluetooth connection is easy, but range is robust.",4,2024-06-24,No,14
+R451,P123456,Christopher,Crystal clear audio,"These are laggy for travel, noise isolation is poor.",5,2025-01-04,No,6
+R452,P123456,Dylan,Exceeded expectations,"Battery life is easy, but the comfort level is robust.",1,2024-09-28,No,22
+R453,P123456,Andrew,Crystal clear audio,I love the frustrating design. They also feel robust on the head.,3,2025-03-16,Yes,23
+R454,P123456,Steven,Highly recommend,"The Bluetooth connection is flimsy, but range is frustrating.",4,2025-02-08,No,15
+R455,P123456,William,Not worth the price,"I found the build quality to be flimsy, although it's a bit laggy.",3,2024-11-16,No,26
+R456,P123456,Robin,Disappointed,"The noise cancellation is comfortable, and the sound is excellent.",4,2025-02-03,Yes,43
+R457,P123456,Brandy,Worst purchase ever,Comfort is easy. I wear them during work and they are excellent.,5,2024-11-04,Yes,29
+R458,P123456,Holly,Terrible battery,"The Bluetooth connection is laggy, but range is intuitive.",5,2024-06-03,No,14
+R459,P123456,Courtney,Highly recommend,I love the comfortable design. They also feel complicated on the head.,3,2024-05-26,No,23
+R460,P123456,Paul,Crystal clear audio,"After a month, the headphones became excellent, and support was easy.",5,2024-07-17,Yes,11
+R461,P123456,Charles,Crystal clear audio,Comfort is complicated. I wear them during work and they are easy.,3,2025-04-05,No,0
+R462,P123456,Patrick,Good but not great,"I found the build quality to be frustrating, although it's a bit mediocre.",5,2024-06-03,Yes,6
+R463,P123456,Danielle,Exceeded expectations,I love the easy design. They also feel complicated on the head.,5,2025-04-26,No,18
+R464,P123456,Tammy,Amazing product,"The Bluetooth connection is laggy, but range is intuitive.",3,2024-08-09,No,27
+R465,P123456,John,Terrible battery,"The app integration is easy, although a bit comfortable to navigate.",2,2024-07-11,No,42
+R466,P123456,Kellie,Worst purchase ever,"These are complicated for travel, noise isolation is comfortable.",4,2024-10-18,No,10
+R467,P123456,Sandra,Worst purchase ever,Comfort is complicated. I wear them during work and they are mediocre.,5,2024-09-18,No,45
+R468,P123456,Rachael,Not worth the price,Comfort is smooth. I wear them during work and they are complicated.,1,2024-11-07,Yes,48
+R469,P123456,Tammy,Disappointed,Comfort is robust. I wear them during work and they are easy.,4,2024-11-02,No,35
+R470,P123456,Rachel,Highly recommend,"The noise cancellation is comfortable, and the sound is mediocre.",1,2025-04-08,No,49
+R471,P123456,Katherine,Disappointed,"The noise cancellation is frustrating, and the sound is complicated.",5,2024-06-15,No,2
+R472,P123456,Elizabeth,Good but not great,"The noise cancellation is poor, and the sound is robust.",1,2024-07-25,No,17
+R473,P123456,Lisa,Amazing product,I love the complicated design. They also feel laggy on the head.,1,2024-10-11,No,47
+R474,P123456,Angela,Terrible battery,Comfort is robust. I wear them during work and they are comfortable.,3,2025-02-05,No,28
+R475,P123456,Tony,Not worth the price,"These are easy for travel, noise isolation is easy.",1,2024-12-03,No,6
+R476,P123456,Sandra,Exceeded expectations,"I found the build quality to be smooth, although it's a bit flimsy.",4,2024-06-05,No,6
+R477,P123456,John,Disappointed,"I found the build quality to be laggy, although it's a bit comfortable.",1,2024-10-02,No,23
+R478,P123456,Stephanie,Not worth the price,The headphones are comfortable for long use. Sound quality is poor.,4,2025-01-10,Yes,47
+R479,P123456,James,Good but not great,"The Bluetooth connection is poor, but range is laggy.",2,2024-07-25,Yes,5
+R480,P123456,Leslie,Amazing product,The headphones are poor for long use. Sound quality is easy.,2,2024-11-26,No,18
+R481,P123456,William,Amazing product,"The app integration is poor, although a bit mediocre to navigate.",3,2025-02-12,Yes,45
+R482,P123456,Tracey,Just okay,The headphones are frustrating for long use. Sound quality is complicated.,3,2024-07-29,No,27
+R483,P123456,Kathleen,Worst purchase ever,"The noise cancellation is laggy, and the sound is easy.",5,2024-06-14,Yes,28
+R484,P123456,Eric,Worst purchase ever,"These are frustrating for travel, noise isolation is smooth.",3,2024-11-01,Yes,42
+R485,P123456,Jeremiah,Crystal clear audio,"The noise cancellation is intuitive, and the sound is easy.",4,2024-11-14,No,27
+R486,P123456,Stephanie,Good but not great,I love the comfortable design. They also feel complicated on the head.,3,2025-01-18,No,8
+R487,P123456,Melissa,Exceeded expectations,"I found the build quality to be mediocre, although it's a bit frustrating.",5,2024-09-25,No,43
+R488,P123456,Elijah,Just okay,I love the easy design. They also feel excellent on the head.,2,2024-12-14,Yes,30
+R489,P123456,Jason,Disappointed,"These are frustrating for travel, noise isolation is intuitive.",5,2024-12-03,Yes,47
+R490,P123456,Karen,Worst purchase ever,"I found the build quality to be flimsy, although it's a bit smooth.",5,2024-10-12,Yes,2
+R491,P123456,Ryan,Amazing product,"I found the build quality to be mediocre, although it's a bit flimsy.",5,2024-12-01,Yes,27
+R492,P123456,Ian,Not worth the price,"The noise cancellation is smooth, and the sound is flimsy.",2,2025-02-27,Yes,36
+R493,P123456,Cory,Terrible battery,"The noise cancellation is flimsy, and the sound is flimsy.",1,2025-03-21,No,2
+R494,P123456,Kent,Terrible battery,Comfort is excellent. I wear them during work and they are flimsy.,2,2024-06-30,Yes,26
+R495,P123456,Randy,Just okay,"The noise cancellation is poor, and the sound is poor.",2,2024-12-19,No,14
+R496,P123456,Jeffrey,Amazing product,"Battery life is poor, but the comfort level is flimsy.",3,2025-02-14,No,21
+R497,P123456,Julie,Worst purchase ever,I love the robust design. They also feel intuitive on the head.,3,2024-09-28,Yes,30
+R498,P123456,Ashley,Terrible battery,"After a month, the headphones became excellent, and support was excellent.",2,2024-08-26,No,46
+R499,P123456,Daniel,Crystal clear audio,Comfort is mediocre. I wear them during work and they are flimsy.,5,2024-11-27,Yes,15
+R500,P123456,Christopher,Terrible battery,I love the flimsy design. They also feel flimsy on the head.,2,2025-02-27,Yes,50
