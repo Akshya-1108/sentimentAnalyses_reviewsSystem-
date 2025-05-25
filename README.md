@@ -24,8 +24,8 @@ This project focuses on building a sentiment analysis model using Amazon product
 ## 🧠 Tech Stack
 
 - **Python**: Core programming language
-- **transformers**: For employing pretrained models
-- **torch**: Framework for neural network
+- **Transformers**: For employing pretrained models
+- **Torch**: Framework for neural network
 - **Pandas**: Data handling and preprocessing
 - **Matplotlib / Seaborn**: Data visualization
 - **Streamlit**: UI framework for web deployment
