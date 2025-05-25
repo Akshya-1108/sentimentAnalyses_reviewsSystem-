@@ -1,4 +1,4 @@
-# Amazon Review Sentiment Analyzer
+## Amazon Review Sentiment Analyzer
 
 This project focuses on building a sentiment analysis model using Amazon product reviews. Leveraging VADER (Valence Aware Dictionary for sEntiment Reasoning) and NLTK (Natural Language Toolkit), the model aims to classify reviews into positive, negative, or neutral sentiments.
 
@@ -18,18 +18,17 @@ This project focuses on building a sentiment analysis model using Amazon product
 ✅ Visualization of sentiment distributions  
 🔜 **Planned Features**:
 - Live review analysis (real-time sentiment updates)
-- Web deployment using **Streamlit**
 
 ---
 
 ## 🧠 Tech Stack
 
 - **Python**: Core programming language
-- **NLTK**: Natural Language Toolkit for text processing
-- **VADER**: Lexicon-based sentiment analyzer (via NLTK)
+- **transformers**: For employing pretrained models
+- **torch**: Framework for neural network
 - **Pandas**: Data handling and preprocessing
 - **Matplotlib / Seaborn**: Data visualization
-- **Streamlit**: UI framework for future web deployment
+- **Streamlit**: UI framework for web deployment
 
 ---
 
@@ -68,7 +67,7 @@ sentimentAnalyses_reviewsSystem-/
 
 ## 📦 Installation
 
-```bash
+```
 git clone https://github.com/yourusername/amazon-review-sentiment.git
 cd amazon-review-sentiment
 pip install -r requirements.txt
@@ -78,11 +77,11 @@ pip install -r requirements.txt
 
 Run the model from the CLI or integrate with your Jupyter workflow:
 
-```bash
-python sentiment_model.py
-For the upcoming Streamlit version:
 ```
-bash
+python sentiment_model.py
+```
+
+For the upcoming Streamlit version:
 ```
 streamlit run streamlit_app.py
 ```
