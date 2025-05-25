@@ -14,7 +14,7 @@ This project focuses on building a sentiment analysis model using Amazon product
 ## 📊 Features
 
 ✅ Preprocessing of textual review data  
-✅ Sentiment analysis using **VADER** from **NLTK**  
+✅ Sentiment analysis using **tranformers**  
 ✅ Visualization of sentiment distributions  
 🔜 **Planned Features**:
 - Live review analysis (real-time sentiment updates)
