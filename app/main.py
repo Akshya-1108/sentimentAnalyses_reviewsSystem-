@@ -30,9 +30,7 @@ if uploaded_file:
             if col.strip().lower() in [name.lower() for name in possible_review_names]:
                 df.rename(columns={col: "review"}, inplace=True)
                 break
-            else:
-                st.error("CSV file must contain a column named 'revieww'.")
-    else:
+    if 'review' in df.columns:
         reviews = df['review'].dropna().astype(str).tolist()
         sentiments, score_df = predict_sentiment(reviews)
 
