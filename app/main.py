@@ -23,7 +23,15 @@ if uploaded_file:
     df = pd.read_csv(uploaded_file)
 
     if 'review' not in df.columns:
-        st.error("The CSV must contain a column named 'review'.")
+        possible_review_names = ["review", "reviews", "review_text", "reviewText", "text", "comment", "comments",
+        "feedback", "user_review", "user_reviews", "content", "body", "opinion", 
+        "description", "message", "post", "entry", "customer_review", "review_body"]
+        for col in df.columns:
+            if col.strip().lower() in [name.lower() for name in possible_review_names]:
+                df.rename(columns={col: "review"}, inplace=True)
+                break
+            else:
+                st.error("CSV file must contain a column named 'revieww'.")
     else:
         reviews = df['review'].dropna().astype(str).tolist()
         sentiments, score_df = predict_sentiment(reviews)
