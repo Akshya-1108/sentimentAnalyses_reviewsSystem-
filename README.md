@@ -36,16 +36,31 @@ This project focuses on building a sentiment analysis model using Amazon product
 ## 📁 Directory Structure
 
 ```
-amazon-review-sentiment/
-│
-├── data/ # Amazon review datasets (CSV/JSON format)
-├── notebooks/ # Jupyter notebooks for development
-├── app/ # Streamlit app files (future)
-├── utils/ # Utility scripts for preprocessing, visualization
-├── sentiment_model.py # Core logic using VADER and NLTK
-├── streamlit_app.py # Planned Streamlit application entry point
-├── requirements.txt # Required Python packages
-└── README.md # Project documentation
+sentimentAnalyses_reviewsSystem-/
+├── .Devcontainer
+|
+├── EDA
+|    └── main.py
+|
+├── app/
+│   ├── __init__.py
+│   └── main.py
+|
+├── data/
+│   └── amazon_reviews_500.csv
+|
+├── model/
+│   ├── __init__.py
+│   └── roberta_model.py
+|
+├── utils/
+│   ├── __init__.py
+│   └── visualization.py
+|
+├── .gitignore.txt
+├── README.md
+└── requirements.txt
+
 ```
 
 
