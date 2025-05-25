@@ -102,8 +102,7 @@ streamlit run streamlit_app.py
 
 ## 🔮 Future Plans
   1. Real-time review scraping & analysis (via APIs or webhooks)
-  2. Web UI for interactive analysis using Streamlit
-  3. User feedback integration to improve model
+  2. User feedback integration to improve model
   
 ---
 
@@ -119,8 +118,9 @@ streamlit run streamlit_app.py
 ---
 
 ## 📬 Contact
-  If you have any feedback or queries, feel free to reach out:
-  GitHub: yourusername
-  Email: your.email@example.com
+If you have any feedback or queries, feel free to reach out:
+
+  1. GitHub: [Akshya-1108](https://github.com/Akshya-1108)
+  2. Click here to email me: [akshya1108dhiman@gmail.com](mailto:akshya1108dhiman@gmail.com?subject=Enquiry%20about%20your%20project&body=Hi,%20I%20was%20reading%20your%20README)
 
 ---
