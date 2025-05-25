@@ -1,11 +1,16 @@
 # app/main.py
+
+#isort: off
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+#isort: on
 import streamlit as st
 import pandas as pd
 from model.roberta_model import predict_sentiment
 from utils.visualization import plot_sentiment_by_rating
-import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 
 
 st.set_page_config(page_title="RoBERTa Review Analyzer", layout="wide")
